@@ -1,2 +1,2 @@
-# algoritmaAnalizi
-Algoritma Analizi Dersleri Kodları
+# algorithmAnalysis
+Algorithm Analysis Lesson Codes
